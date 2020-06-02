@@ -1,0 +1,2 @@
+.hdf5 filter=lfs diff=lfs merge=lfs -text
+outputs/car_features.hdf5 filter=lfs diff=lfs merge=lfs -text
